@@ -1,0 +1,3 @@
+0 0 100 black unfilled
+100 0 10 gold filled
+130 20 20 blue filled

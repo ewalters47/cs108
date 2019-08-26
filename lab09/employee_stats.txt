@@ -1,0 +1,7 @@
+The employee with the highest salary is: Blair, S.: CEO, ($182123)
+The employee with the lowest salary is: Curtis, T.: Staff, ($20106)
+Rank			Average Salary
+Staff			57075.39
+VP			101078.00
+Manager			70055.95
+CEO			182123.00
